@@ -1,0 +1,12 @@
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.game_size {
+	width: 100px;
+	height: 100px;
+	float: left;
+	display: block;
+	background-color: gray;
+}

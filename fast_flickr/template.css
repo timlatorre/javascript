@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+.photo{
+
+	float: left;
+	height: 50px;
+	width: 50px;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+}

@@ -1,0 +1,16 @@
+body {
+	font-size: 12px
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.add_text {
+	width: 80px;
+}
+
+#add_button {
+	width: 40px;
+}
